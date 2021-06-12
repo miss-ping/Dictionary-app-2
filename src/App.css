@@ -12,5 +12,11 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #61fbb3;
+}
+
+.Homework {
+  margin-top: 20px;
+  font-size: 15px;
+  color: #a9b2bb;
 }
