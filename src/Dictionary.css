@@ -1,3 +1,10 @@
 .Dictionary {
-  color: #c5cdd5;
+  color: #4b5258;
+  margin-bottom: 20px;
+}
+.form-input {
+  border: 1px solid #85929e;
+  border-radius: 6px;
+  line-height: 2;
+  color: #4b5258;
 }

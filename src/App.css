@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .App-header {
@@ -8,15 +10,24 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: #22272c;
+  color: #373e44;
 }
 
 .App-link {
   color: #61fbb3;
 }
-
 .Homework {
   margin-top: 20px;
   font-size: 15px;
   color: #a9b2bb;
+}
+.type-request {
+  margin-top: 20px;
+}
+h1 {
+  font-weight: 800;
+}
+footer {
+  margin-top: 10px;
+  font-size: 12px;
 }
