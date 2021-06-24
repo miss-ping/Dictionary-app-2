@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <p className="Homework">Homework week 1</p>
+          <p className="Homework">Week 2</p>
           <h1>Dictionary</h1>
           <p className="type-request">
             <em>Type a word to look up</em>
