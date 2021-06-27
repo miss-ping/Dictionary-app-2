@@ -8,10 +8,8 @@ function App() {
         <header className="App-header">
           <p className="Homework">Week 2</p>
           <h1>Dictionary</h1>
-          <p className="type-request">
-            <em>Type a word to look up</em>
-          </p>
-          <Dictionary defaultKeyword="ocean" />
+
+          <Dictionary defaultKeyword="aurora" />
         </header>
       </div>
       <footer>

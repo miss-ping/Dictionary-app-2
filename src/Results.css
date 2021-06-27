@@ -1,7 +1,8 @@
 .Results {
   text-align: left;
-  padding-left: 30px;
 }
-h2 {
+.Results h2 {
   margin-top: 20px;
+  font-family: Times, serif;
+  font-size: 36px;
 }
