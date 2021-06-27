@@ -11,7 +11,7 @@ function App() {
           <p className="type-request">
             <em>Type a word to look up</em>
           </p>
-          <Dictionary />
+          <Dictionary defaultKeyword="ocean" />
         </header>
       </div>
       <footer>
