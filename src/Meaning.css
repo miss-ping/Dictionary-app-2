@@ -1,3 +1,7 @@
-.example {
-  font-size: 14px;
+.Meaning .example {
+  color: #6e8a86;
+  font-size: 15px;
+  padding-left: 5px;
+  display: inline-block;
+  margin-top: 10px;
 }

@@ -1,12 +1,11 @@
 .Dictionary {
   color: #4b5258;
-  margin-bottom: 20px;
   padding: 20px;
 }
 
 .Dictionary input {
   border: 1px solid #c0d1cf;
-  border-radius: 8px;
+  border-radius: 12px;
   color: #4b5258;
   line-height: 2;
   margin-top: 5px 0 20px;

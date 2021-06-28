@@ -6,3 +6,10 @@
   font-family: Times, serif;
   font-size: 36px;
 }
+
+.Results section {
+  background-color: #f0f8f7;
+  margin-top: 16px;
+  border-radius: 8px;
+  padding: 8px 12px;
+}
