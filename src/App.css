@@ -3,32 +3,38 @@
   max-width: 600px;
   margin: 0 auto;
   border: 0 solid #dfecea;
-  border-radius: 12px;
 }
 .App-header {
-  background-color: #dfecea;
+  background-color: #fff;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   color: #373e44;
-  border-radius: 8px;
 }
-.App-link {
-  color: #61fbb3;
-}
-.Homework {
-  margin-top: 20px;
-  font-size: 15px;
-  color: #a9b2bb;
-}
+
 .type-request {
   margin-top: 20px;
 }
-.App h1 {
-  font-weight: 800;
+.App h6 {
+  align-items: center;
+  background-color: #324453;
+  border-radius: 50%;
+  color: #f7f201;
+  display: flex;
+  font-family: Georgia, serif;
+  font-weight: 700;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  padding-left: 5px;
 }
+
 .App footer {
   margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 3px;
   font-size: 12px;
+  background-color: #fff;
+  color: #212d35;
 }

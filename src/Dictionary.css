@@ -1,13 +1,18 @@
 .Dictionary {
-  color: #4b5258;
+  color: #212d35;
   padding: 20px;
 }
-
 .Dictionary input {
-  border: 1px solid #c0d1cf;
-  border-radius: 12px;
+  border: 1px solid #f7f201;
+  border-radius: 20px;
   color: #4b5258;
   line-height: 2;
-  margin-top: 5px 0 20px;
-  padding: 3px 5px;
+  padding: 5px 8px;
+}
+.Dictionary form {
+  margin: 10px auto 40px;
+}
+.Dictionary em {
+  font-size: 13px;
+  color: #425766;
 }

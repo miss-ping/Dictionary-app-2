@@ -7,6 +7,7 @@ export default function Results(props) {
   if (props.results) {
     return (
       <div className="Results">
+        <hr />
         <h2 className="text-capitalize">{props.results.word}</h2>
         {props.results.phonetics.map(function (phonetics, index) {
           return (
@@ -15,7 +16,6 @@ export default function Results(props) {
             </div>
           );
         })}
-        <hr />
         {props.results.meanings.map(function (meaning, index) {
           return (
             <div key={index}>

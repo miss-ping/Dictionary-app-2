@@ -48,7 +48,7 @@ export default function Dictionary(props) {
     return (
       <div className="Dictionary">
         <section>
-          <em>Type a word to look up</em>
+          <em>Type a word to look up!</em>
           <form onSubmit={handleSubmit}>
             <input
               className="form-input"
@@ -60,6 +60,8 @@ export default function Dictionary(props) {
         </section>
         <section>
           <Results results={results} />
+        </section>
+        <section>
           <Photos photos={photos} keyword={keyword} />
         </section>
       </div>

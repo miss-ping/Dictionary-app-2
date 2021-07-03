@@ -1,12 +1,12 @@
 .Synonyms ul {
-  padding-left: 5px;
+  padding-left: 1px;
   font-size: 14px;
-  color: #6e8a86;
+  color: #466677;
 }
 .Synonyms li {
   display: inline-block;
   padding: 3px 10px;
   margin: 4px 6px;
-  background-color: #d6f5f0;
+  background-color: #f7f201;
   border-radius: 8px;
 }

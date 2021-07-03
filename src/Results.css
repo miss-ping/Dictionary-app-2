@@ -3,13 +3,15 @@
 }
 .Results h2 {
   margin-top: 20px;
-  font-family: Times, serif;
+  margin-left: 10px;
+  font-family: Georgia, serif;
   font-size: 36px;
 }
 
 .Results section {
-  background-color: #f0f8f7;
-  margin-top: 16px;
+  background-color: #fff;
+  border: 1px solid #f7f201;
   border-radius: 8px;
+  margin-top: 16px;
   padding: 8px 12px;
 }
