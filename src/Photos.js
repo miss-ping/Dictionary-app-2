@@ -7,6 +7,7 @@ export default function Photos(props) {
     return (
       <section className="Photos">
         <div className="row">
+          <span>Click on the image to see full resolution</span>
           {props.photos.map(function (photo, index) {
             return (
               <div key={index} className="col-4">
